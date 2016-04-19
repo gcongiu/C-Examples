@@ -1,0 +1,3 @@
+struct transparent {
+        int a;
+};
